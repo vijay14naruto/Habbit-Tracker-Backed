@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulsups/habit-tracker.git"
+    "url": "https://github.com/vijay14naruto/Habbit-Tracker-Backed"
   },
   "author": "Rahul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahulsups/habit-tracker/issues"
+    "url": "https://github.com/vijay14naruto/Habbit-Tracker-Backed"
   },
-  "homepage": "https://github.com/rahulsups/habit-tracker#readme",
+  "homepage": "https://github.com/vijay14naruto/Habbit-Tracker-Backed#readme",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "dotenv": "^8.2.0",
